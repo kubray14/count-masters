@@ -2,7 +2,7 @@
 A clone Game project from Count Masters: Stickman for Jr. Factory  (Game Factory)
 It has 1 level. Different enemies. Touch & Move mechanism. 
 A simple examples of hypercasual games.
-
+There is APK file for download the game.
 # Icon
 ![pic](https://user-images.githubusercontent.com/101721434/219675563-978da3ec-054f-4de1-8820-4d77c71c7f7d.png)
 
