@@ -7,4 +7,4 @@ A simple examples of hypercasual games.
 ![pic](https://user-images.githubusercontent.com/101721434/219675563-978da3ec-054f-4de1-8820-4d77c71c7f7d.png)
 
 # A screenshot from the game
-![Screenshot_20230217-165602](https://user-images.githubusercontent.com/101721434/219675811-3cfb2d65-eea9-4f3c-bbb8-b0ebd5c75387.png)
+![Screenshot_20230217-165602](https://user-images.githubusercontent.com/101721434/219676014-5a3159aa-ebfe-4f1f-9997-4b4cc6507b97.png)
